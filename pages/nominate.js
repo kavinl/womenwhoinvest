@@ -3,11 +3,11 @@ import Link from "next/link";
 import MetaTags from "../components/Metatags.js";
 import Analytics from "../components/Analytics.js";
 
-export default function Nominate({ designers }) {
+export default function Nominate({ builders }) {
   return (
     <div className="container">
       <Head>
-        <title>Brazilians Who Design | Nomiate</title>
+        <title> Women who Build | Nomiate</title>
         <link rel="icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
