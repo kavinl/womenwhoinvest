@@ -27,7 +27,7 @@ export default function Home({ designers }) {
   return (
     <div className="container">
       <Head>
-        <title>Brazilians Who Design | About</title>
+        <title> Women who invest | About</title>
         <link rel="icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
@@ -38,7 +38,7 @@ export default function Home({ designers }) {
 
       <Title
         className="title m0 p0"
-        text="Brazilians*who&nbsp;design&nbsp;is&nbsp;a"
+        text="Women*who&nbsp;invest&nbsp;is&nbsp;a"
         noAnimation
       />
 
@@ -68,8 +68,8 @@ export default function Home({ designers }) {
         <div className="col-left">
           <h3>How can I nominate someone?</h3>
           <p>
-            If you know a Brazilian designer whose work or voice is valuable to
-            the design industry, please{" "}
+            If you know a Women or Nonbinary investor whose work or voice is valuable to
+            the investing and startup industry, please{" "}
             <Link href="/nominate">
               <a className="link">fill out this form</a>
             </Link>{" "}
