@@ -7,7 +7,7 @@ export default function MetaTags() {
       <meta name="title" content="Brazilians Who Design" />
       <meta
         name="description"
-        content="A repository to celebrate the work of talented Brazilian designers and showcase it to the world."
+        content="A repository to celebrate the work of talented women and nonbinary builders it to the world."
       />
 
       {/* <!-- Open Graph / Facebook --/> */}
@@ -16,7 +16,7 @@ export default function MetaTags() {
       <meta property="og:title" content="Brazilians Who Design" />
       <meta
         property="og:description"
-        content="A repository to celebrate the work of talented Brazilian designers and showcase it to the world."
+        content="A repository to celebrate the work of talented women and nonbinary builders it to the world."
       />
       <meta
         property="og:image"
@@ -29,7 +29,7 @@ export default function MetaTags() {
       <meta property="twitter:title" content="Brazilians Who Design" />
       <meta
         property="twitter:description"
-        content="A repository to celebrate the work of talented Brazilian designers and showcase it to the world."
+        content="A repository to celebrate the work of talented women and nonbinary builders it to the world."
       />
       <meta
         property="twitter:image"
