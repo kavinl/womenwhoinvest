@@ -82,12 +82,12 @@ export default function Home({ designers }) {
             how they’re making an impact in the industry.
           </p>
 
-          <h3>Why are featuring artists as well?</h3>
+          <h3>Why are featuring entrepeneurs as well?</h3>
           <p>
-            We wanted to showcase not only contemporary Brazilian design, but
+            We wanted to showcase underrepresented investors, but
             also leverage all the visibility that this project is getting to
-            celebrate the history of design in our country. Every time you
-            reload the website there’s a new featured Brazilian designer you can
+            celebrate all dimensions of the startup community. Every time you
+            reload the website there’s a new featured builder you can
             learn more about.
           </p>
 
@@ -192,9 +192,7 @@ export default function Home({ designers }) {
           </ul>
           <br />
           <p>
-            Thanks to Caio Braga, Rafael Frota, Karina Sirqueira, Al Lucca,
-            Bruno Oyama, Fabio Sasso, Daniel Furtado, Rodrigo Muniz, Lucas
-            Falcão, for the help of gathering the initial list of designers.
+            Thanks to the team for the help of gathering the initial list of designers.
           </p>
 
           <h3>Who’s behind this?</h3>
