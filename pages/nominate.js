@@ -7,7 +7,7 @@ export default function Nominate({ designers }) {
   return (
     <div className="container">
       <Head>
-        <title>Brazilians Who Design | Nomiate</title>
+        <title> Women Who Invest | Nomiate</title>
         <link rel="icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
