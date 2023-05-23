@@ -7,7 +7,7 @@ export default function MetaTags() {
       <meta name="title" content="Brazilians Who Design" />
       <meta
         name="description"
-        content="A repository to celebrate the work of talented Brazilian designers and showcase it to the world."
+        content="A repository to celebrate the work of talented women and nonbinary builders it to the world."
       />
 
       {/* <!-- Open Graph / Facebook --/> */}
