@@ -27,7 +27,7 @@ export default function Home({ designers }) {
   return (
     <div className="container">
       <Head>
-        <title>Brazilians Who Design | About</title>
+        <title> Women Who Build | About</title>
         <link rel="icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
@@ -38,7 +38,7 @@ export default function Home({ designers }) {
 
       <Title
         className="title m0 p0"
-        text="Brazilians*who&nbsp;design&nbsp;is&nbsp;a"
+        text="Women*who&nbsp;build&nbsp;is&nbsp;a"
         noAnimation
       />
 
@@ -51,12 +51,12 @@ export default function Home({ designers }) {
         <p className="f1 extend">
           <motion.span variants={item}>place to showcase</motion.span>{" "}
           <motion.span variants={item}>the work of talented</motion.span>{" "}
-          <motion.span variants={item}>Brazilian designers to</motion.span>{" "}
+          <motion.span variants={item}>women investors and entrepeneurs to</motion.span>{" "}
           <motion.span variants={item}>the world. The goal</motion.span>{" "}
           <motion.span variants={item}>is to inspire new</motion.span>{" "}
-          <motion.span variants={item}>designers to diversify</motion.span>{" "}
+          <motion.span variants={item}> builders to diversify</motion.span>{" "}
           <motion.span variants={item}>
-            their references, experienced designers
+            their point of view, experienced investors
           </motion.span>{" "}
           <motion.span variants={item}>
             to diversity their network, and companies to diversify their teams.
@@ -68,8 +68,8 @@ export default function Home({ designers }) {
         <div className="col-left">
           <h3>How can I nominate someone?</h3>
           <p>
-            If you know a Brazilian designer whose work or voice is valuable to
-            the design industry, please{" "}
+            If you know a women or nonbinary investor and enetrepeneur whose work or voice is valuable to
+            the startup community, please{" "}
             <Link href="/nominate">
               <a className="link">fill out this form</a>
             </Link>{" "}
@@ -77,17 +77,17 @@ export default function Home({ designers }) {
             them. You can choose to link to their portfolio, to their Linkedin,
             or to other social profiles — any link that you feel best represents
             how that person is making a difference in the industry. We decided
-            not to collect or display the designer’s photo because we wanted the
+            not to collect or display the builder’s photo because we wanted the
             repository to be less about what someone looks like and more about
             how they’re making an impact in the industry.
           </p>
 
           <h3>Why are featuring artists as well?</h3>
           <p>
-            We wanted to showcase not only contemporary Brazilian design, but
+            We wanted to showcase not only contemporary investors, but
             also leverage all the visibility that this project is getting to
-            celebrate the history of design in our country. Every time you
-            reload the website there’s a new featured Brazilian designer you can
+            celebrate people building companies and investing. Every time you
+            reload the website there’s a new featured buider you can
             learn more about.
           </p>
 
